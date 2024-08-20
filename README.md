@@ -1,15 +1,28 @@
-<h1 align="center">Hi 👋, I'm Emily</h1>
+<h1 align="center">Hola 👋, soy Emily</h1>
 <h3 align="center">Una apasionada desarrolladora backend de la Capital de Córdoba</h3>
 
-- 🔭 Actualmente estoy trabajando en [edufee](https://edufee.vercel.app/)
+### ¿Qué me define?
+- Me gustan los desafios.
+- Me gusta aplicar lo que aprendo.
+- Me adapto fácilmente a los equipos de trabajo.
 
-- 🌱 Actualmente estoy aprendiendo **Socket.IO**
+### Tecnologías que uso:
+- Nest.js
+- SQL
+- Nodemailer
+- Auth0
+- Stripe
+  
 
-- 📫 Email de contacto **15ruth05@gmail.com**
+- 🌱 Actualmente estoy aprendiendo más de **Socket.IO**
+
+- 📫 ¡Conéctate conmigo!
+[LinkedIn](https://www.linkedin.com/in/emily-ruth-morales-cespedes-18b0b029a) | [Correo electrónico](15ruth05@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/emily-ruth-morales-cespedes-18b0b029a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/emily-ruth-morales-cespedes-18b0b029a/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/emily-ruth-morales-cespedes-18b0b029a/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/emily-ruth-morales-cespedes-18b0b029a/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
