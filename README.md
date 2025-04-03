@@ -14,7 +14,7 @@
 - Bcrypt
   
 
-- 🌱 Actualmente por causa de un proyecto estoy aprendiendo acerca de **Python** con **FastApi**
+- 🌱 Actualmente debido a un proyecto estoy aprendiendo **Python** con **FastApi**
 
 - 📫 ¡Conéctate conmigo!
 [LinkedIn](https://www.linkedin.com/in/emily-morales-cespedes-18b0b029a) | [Correo electrónico](mailto:15ruth05@gmail.com)
