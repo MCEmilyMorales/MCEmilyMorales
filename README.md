@@ -9,12 +9,12 @@
 ### Tecnologías que uso:
 - Nest.js
 - SQL
-- Nodemailer
+- JWT
 - Auth0
-- Stripe
+- Bcrypt
   
 
-- 🌱 Actualmente estoy aprendiendo más de **Socket.IO**
+- 🌱 Actualmente por causa de un proyecto estoy aprendiendo acerca de **Python** con **FastApi**
 
 - 📫 ¡Conéctate conmigo!
 [LinkedIn](https://www.linkedin.com/in/emily-morales-cespedes-18b0b029a) | [Correo electrónico](mailto:15ruth05@gmail.com)
