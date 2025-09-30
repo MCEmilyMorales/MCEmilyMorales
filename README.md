@@ -17,7 +17,7 @@
 - 🌱 Actualmente debido a un proyecto estoy aprendiendo **Python** con **FastApi**
 
 - 📫 ¡Conéctate conmigo!
-[LinkedIn](https://www.linkedin.com/in/emily-morales-cespedes-18b0b029a) | [Correo electrónico](mailto:15ruth05@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/emily-morales-cespedes-18b0b029a) | [Correo electrónico](mailto:15ruth05@gmail.com) | [Porfolio](https://porfolioemilymorales.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
